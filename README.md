@@ -1,0 +1,2 @@
+# EnhancerBot
+Bicubic interpolation.
