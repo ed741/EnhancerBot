@@ -23,7 +23,6 @@ def getVal2D(p, x, y):
 
 def bicubic(image_in):
 	image = image_in.convert('RGBA')
-	r, g, b, a = image.getpixel((3, 3))
 	oldWidth = image.width
 	oldHeight = image.height
 	width = oldWidth*4
